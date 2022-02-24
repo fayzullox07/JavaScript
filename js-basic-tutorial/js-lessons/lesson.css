@@ -1,0 +1,28 @@
+section {
+    width: 100%;
+    height: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    background-color: khaki;
+    color: whitesmoke;
+    transition: all 0.3s
+}
+
+.transitions {
+    transition: all 0.5s;
+}
+
+.margins {
+    margin: 50px;
+}
+
+.red-color {
+    background: red;
+    color: yellow;
+}
+
+#modal {
+    display: none;
+    transition: all 0.5s;
+}
